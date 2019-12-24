@@ -104,4 +104,15 @@ Originally Answered: Where Darknet websites are hosted ?
 
 If you want to host your own website on tor here is the nice video on it.
 
-How to Host .onion website
+How to Host .onion website via https://youtu.be/wFNY2ZT0u5c
+
+optional READ
+
+https://www.quora.com/How-do-I-host-a-website-anonymously
+
+https://www.quora.com/Who-controls-the-darknet
+
+https://www.quora.com/unanswered/How-do-I-find-secret-websites-on-the-Darknethttps://www.quora.com/unanswered/How-do-I-find-secret-websites-on-the-Darknet
+https://www.quora.com/What-are-the-best-dark-web-sites
+
+https://www.quora.com/How-do-I-start-a-porn-site
